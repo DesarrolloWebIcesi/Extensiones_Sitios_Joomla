@@ -1,0 +1,304 @@
+../../../icesi/configuration.php&&joomla_icesi25&&Universidad Icesi
+../../../diseno_industrial/configuration.php&&joomla_diseno&&Programa de Diseño Industrial
+../../../psicologia/configuration.php&&joomla_psicologia&&Programa de Psicología
+../../../administracion_empresas/configuration.php&&joomla_admon25&&Programa de Administración de Empresas
+../../../administracion_empresas/en/configuration.php&&joomla_admonen&&Programa de Administración de Empresas
+../../../antropologia/antropologia/configuration.php&&joomla_antropologia15&&Programa de Antropología
+../../../antropologia/configuration.php&&joomla_antropologia3&&Programa de Antropología
+../../../facultad_derecho_ciencias_sociales/configuration.php&&joomla_facdersoc122&&Facultad Derecho Ciencias Sociales
+../../../ciencia_politica/configuration.php&&joomla_cienciapolitica&&Programa de Ciencias Políticas
+../../../centro_entrenamiento_internacional/configuration.php&&joomla_cei&&Centro de Entrenamiento en Urgencias y Emergencias Médicas
+../../../silee/configuration.php&&joomla_silee25&&Silee
+../../../estudios_juridicos/configuration.php&&joomla_estudios_juridicos&&Estudios Juridicos
+../../../icesi_en/agenda_nueva/agenda_prod/configuration.php&&joomla_agenprod&&Agenda Institucional
+../../../icesi_en/agenda_nueva/configuration.php&&joomla_agenda_nueva&&Agenda Institucional
+../../../icesi_en/configuration.php&&joomla_icesien&&Icesi Móvil II
+../../../habilidades_computacion/configuration.php&&joomla_habco&&Universidad Icesi
+../../../colegios/configuration.php&&joomla_colegios25&&Colegios
+../../../proesa_old2/proesa/configuration.php&&joomla_proesa25&&Proesa
+../../../congreso_sociologia/configuration.php&&joomla_congsoci25&&Congreso
+../../../foro_negocios_internacionales/configuration.php&&joomla_foro_ni25&&Foro Negocios Internacionales
+../../../medicina/configuration.php&&joomla_medicina_2_5&&Programa de Medicina
+../../../social_entrepreneur/configuration.php&&joomla_socialentre&&Concurso Be the Social Entrepreneur
+../../../pasion_conocimiento/configuration.php&&joomla_pasioncto&&Pasión y conocimiento
+../../../acreditacion_amba/configuration.php&&joomla_acred_mba25&&Acreditación MBA
+../../../relaciones_internacionales/configuration.php&&joomla_relinter25&&Relaciones Internacionales
+../../../prueba_old/configuration.php&&joomla_pruebajoomla&&Icesi Móvil II
+../../../prueba_hoy/configuration.php&&joomla_pruebahoy&&Especialización en Legislación Laboral y de la Seguridad Social
+../../../familia_empresa/configuration.php&&joomla_famiempresa25&&Familia Empresa
+../../../simposio_cideim/configuration.php&&joomla_sim_cideim&&CIDEIM
+../../../grupo_acciones_publicas_icesi/configuration.php&&joomla_gapi25test&&Grupo de Acciones Públicas Icesi
+../../../maestrias/productos_derivados/configuration.php&&joomla_proderiv&&Maestría en Formulación de Productos Químicos y Derivados
+../../../maestrias/periodismo/configuration.php&&joomla_periodismo&&Maestría en Periodismo
+../../../maestrias/ciencias_biotecnologia/configuration.php&&joomla_maebiotec&&Maestría en Biotecnología
+../../../maestrias/administracion/doble_titulacion/configuration.php&&joomla_madmond&&Maestría en Administración con Doble Titulación
+../../../maestrias/administracion/configuration.php&&joomla_madmon&&Maestría en Administración
+../../../maestrias/gerencia_organizaciones_salud_copia/config 2.5/configuration.php&&test&&Maestría en Gerencia de Organizaciones de Salud
+../../../maestrias/gerencia_organizaciones_salud_copia/configuration.php&&test&&Maestría en Gerencia de Organizaciones de Salud
+../../../maestrias/economia/configuration.php&&joomla_ecomomiamig&&Maestría en Economía
+../../../maestrias/gerencia_organizaciones_salud/configuration.php&&joomla_gerenciasalud&&Maestría en Gerencia de Organizaciones de Salud
+../../../maestrias/gerencia_organizaciones_salud/gerencia_organizaciones_salud_copia/config 2.5/configuration.php&&test&&Maestría en Gerencia de Organizaciones de Salud
+../../../maestrias/gerencia_organizaciones_salud/gerencia_organizaciones_salud_copia/configuration.php&&test&&Maestría en Gerencia de Organizaciones de Salud
+../../../maestrias/derecho/configuration.php&&joomla_mae_derecho&&Maestría en Derecho
+../../../maestrias/gerencia_innovacion_social/configuration.php&&joomla_gerenciasocial&&Maestría en Gerencia para la Innovación Social
+../../../maestrias/administracion_/configuration.php&&joomla_madmon&&Maestría en Administración
+../../../maestrias/administracion_/doble_titulacion/configuration.php&&joomla_madmond&&Maestría en Administración con Doble Titulación
+../../../maestrias/intervencion_psicosocial/configuration.php&&joomla_intersocial&&Maestría en Intervención Psicosocial
+../../../maestrias/gestion_informatica_telecomunicaciones/configuration.php&&joomla_gitmig&&Maestría en Gestión de Informática y Telecomunicaciones
+../../../maestrias/educacion/configuration.php&&joomla_maestria_educa&&Maestría en Educación
+../../../maestrias/tefl/configuration.php&&joomla_mtefl&&Master’s program in the teaching of english as a foreign language
+../../../maestrias/gobierno/configuration.php&&joomla_gobierno&&Maestría en Gobierno
+../../../maestrias/finanzas/configuration.php&&joomla_finmig&&Maestría en Finanzas
+../../../maestrias/innovacion/configuration.php&&joomla_maeinnova&&Maestría en Informática y Telecomunicaciones
+../../../maestrias/mercadeo/configuration.php&&joomla_mmdeo&&Maestría en Mercadeo
+../../../maestrias/biotecnologia-investigacion/configuration.php&&joomla_maebioinv&&Maestría en Biotecnología
+../../../maestrias/informatica_telecomunicaciones/configuration.php&&joomla_minfotele25&&Maestría en Informática y Telecomunicaciones
+../../../maestrias/industrial/configuration.php&&joomla_mindustrial&&Maestría en Ingeniería Industrial
+../../../vallevisible/configuration.php&&joomla_vallev&&Valle Visible
+../../../agenda_cambios/configuration.php&&joomla_agendacam&&agenda
+../../../investigaciones_publicaciones_old/libros/analisis_riesgo_financiero/configuration.php&&joomla_libros25&&Introducción al Análisis de Riesgo Financiero
+../../../investigaciones_publicaciones_old/libros/easyreg_aplicaciones_econometria/configuration.php&&joomla_easyreg25&&Libro Easyreg Aplicaciones Econometría
+../../../investigaciones_publicaciones_old/configuration.php&&joomla_investpub25&&Investigaciones y Publicaciones
+../../../joomla3_old2/configuration.php&&joomla_joomla3&&Migración Icesi
+../../../derecho/configuration.php&&joomla_derecho1_5&&Programa de Derecho
+../../../contaduria_finanzas_internacionales/configuration.php&&joomla_cpfi&&Programa de Contaduria Y Finanzas Internacionales
+../../../contaduria_finanzas_internacionales/english/configuration.php&&joomla_cpfien&&Programa de Contaduria Y Finanzas Internacionales
+../../../simulacion_gerencia_integral/configuration.php&&joomla_simgerencial25&&Simulación Gerencia Integral
+../../../bienestar_universitario/configuration.php&&joomla_bienestar25&&Bienestar Universitario
+../../../simposio_normas_internacionales/configuration.php&&joomla_simpnorint&&Simposio Normas Internacionales de Información Financiera
+../../../icesimovil/configuration.php&&joomla_icesimovil&&Icesi Móvil
+../../../simposio_estudios_gerenciales/configuration.php&&joomla_siesge25&&Simposio Estudios Gerenciales
+../../../mercadeo_internacional_publicidad/configuration.php&&joomla_mip&&Programa de Mercadeo Internacional Y Publicidad
+../../../mercadeo_internacional_publicidad/english/configuration.php&&joomla_mipen&&Programa de Mercadeo Internacional Y Publicidad
+../../../observatorio_intervencion_social/configuration.php&&joomla_obsersocial&&Observatorio de Intervención Social y Responsabilidad Social
+../../../proesa_05-12-14 lmrivera/configuration.php&&joomla_prueba32&&Proesa
+../../../ciacer/configuration.php&&joomla_ciacer&&CIACER
+../../../quimica/configuration.php&&joomla_quimica&&Programa de Quimica
+../../../revista_transpasando_fronteras/configuration.php&&j_revistatraspa25&&Revista estudiantil Trans
+../../../oficina_comunicaciones/configuration.php&&joomla_oficomu&&Oficina de Comunicaciones
+../../../ingenieria_sistemas/configuration.php&&joomla_sistemas&&Programa de Ingeniería de Sistemas
+../../../egresados/configuration.php&&joomla_egresados25&&Icesi Siempre
+../../../jcalonso/configuration.php&&joomla_jcalonso25&&Julio Cesar Alonso
+../../../educacion_continua/configuration.php&&joomla_educon25&&Educación Continua
+../../../soma/configuration.php&&joomla_copaso25&&Programa de Gestión en Salud, seguridad y Ambiente
+../../../objetivos_milenio/configuration.php&&joomla_objetivosmilenio&&Objetivos Milenio
+../../../economia_negocios_internacionales/en/configuration.php&&joomla_enien&&Programa de Economía Y Negocios Internacionales
+../../../economia_negocios_internacionales/configuration.php&&joomla_eni&&Programa de Economía Y Negocios Internacionales
+../../../icesi_nuevo/configuration.php&&joomla_icesi25n&&Universidad Icesi
+../../../congreso_aceqf/configuration.php&&joomla_congreso_aceqf&&XIII Congreso Nacional de Estudiantes de Química Farmacéutica
+../../../jornada_capital_intelectual/configuration.php&&joomla_jorcapin25&&Jornadas de capital intelectual, La ventaja competitiva de las empresas actuales
+../../../biblioteca/configuration.php&&joomla_bib35&&Biblioteca
+../../../prueba_3/configuration.php&&joomla_becas100&&Sitio Web Móvil Icesi
+../../../cigo/configuration.php&&joomla_cigo&&CIGO
+../../../cdee/cic/configuration.php&&joomla_cicdes&&Centro de Industrias Culturales
+../../../cdee/innovando/configuration.php&&joomla_innovando45&&Innovando 51
+../../../cdee/campodeverano/configuration.php&&joomla_campocdee&&Campo de Verano
+../../../cdee/configuration.php&&joomla_cdee252&&Centro de Desarrollo del Espíritu Empresarial
+../../../cdee/start-upcafe/configuration.php&&joomla_startupcafe25&&Start up Cafe: Meet, Drink, Think
+../../../cdee/clee2015/configuration.php&&joomla_clee15&&CLEE 2015
+../../../capacitacion/configuration.php&&joomla_cienfi252&&CIENFI
+../../../professional_english_certificate/configuration.php&&joomla_pec&&professional_english_certificate
+../../../maestrias_/derecho/configuration.php&&joomla_mae_derecho&&Maestría en Derecho
+../../../maestrias_/economia/configuration.php&&joomla_maeco&&Maestría en Economía
+../../../maestrias_/informatica_telecomunicaciones/configuration.php&&joomla_minfotele25&&Maestría en Informática y Telecomunicaciones
+../../../maestrias_/industrial/configuration.php&&joomla_mindustrial&&Maestría en Ingeniería Industrial
+../../../maestrias_/intervencion_psicosocial/configuration.php&&joomla_intersocial&&Maestría en Intervención Psicosocial
+../../../maestrias_/gestion_informatica_telecomunicaciones/configuration.php&&joomla_mgit&&Maestría en Gestión Informática
+../../../maestrias_/periodismo/configuration.php&&joomla_periodismo&&Maestría en Periodismo
+../../../maestrias_/educacion/configuration.php&&joomla_maestria_educa&&Maestría en Educación
+../../../maestrias_/administracion/configuration.php&&joomla_madmon&&Maestría en Administración
+../../../maestrias_/administracion/doble_titulacion/configuration.php&&joomla_madmond&&Maestría en Administración con Doble Titulación
+../../../maestrias_/gobierno/configuration.php&&joomla_gobierno&&Maestría en Gobierno
+../../../maestrias_/finanzas/configuration.php&&joomla_mfin&&Maestría en Finanzas
+../../../maestrias_/mercadeo/configuration.php&&joomla_mmdeo&&Maestría en Mercadeo
+../../../maestrias_/mtefl/configuration.php&&joomla_mtefl&&Master’s program in the teaching of english as a foreign language
+../../../biologia/configuration.php&&joomla_biologia&&Programa de Biología
+../../../precedente/configuration.php&&joomla_precedente25&&Precedente
+../../../vida_mundo_empresa/configuration.php&&joomla_vidaempresa25&&Vida, Mundo y Empresa
+../../../prueba_mision-india/configuration.php&&joomla_movanacron&&Prueba
+../../../polis_old/configuration.php&&joomla_polis3&&polis
+../../../fundacion_profesores/configuration.php&&joomla_fundprof25&&Fundación de profesores
+../../../publicaciones_derecho_ciencias_sociales/configuration.php&&joomla_pubfacderc252&&Publicaciones
+../../../acreditacion_aacsb/configuration.php&&joomla_acred_aacsb&&Acreditación AACSB
+../../../crea/configuration.php&&joomla_crea25&&Centro de Recursos para el Aprendizaje CREA
+../../../semana_internacional_canada/configuration.php&&joomla_seinca25&&Semana Internacional Canadá
+../../../acofii/configuration.php&&joomla_acofii&&Acofii
+../../../alta_gerencia_internacional/configuration.php&&joomla_altagi&&Alta Gerencia Internacional
+../../../prueba/configuration.php&&joomla_movanacron&&Prueba
+../../../leo/configuration.php&&joomla_leo&&Observatorio de Intervención Social y Responsabilidad Social
+../../../ingenieria-bioquimica/configuration.php&&joomla_ingbio&&Programa de Ingeniería de Sistemas
+../../../especializaciones/derecho_comercial/configuration.php&&joomla_dercomercial25&&Especialización en Derecho Comercial
+../../../especializaciones/derecho_penal/configuration.php&&joomla_derepenal&&Especialización en Derecho Penal
+../../../especializaciones/gerencia_tributaria/configuration.php&&joomla_esp_gt25&&Especialización en Gerencia Tributaria
+../../../especializaciones/derecho_laboral/configuration.php&&joomla_derlaboral25&&Derecho Laboral
+../../../especializaciones/derecho_empresarial/configuration.php&&joomla_derempresa&&Especialización en Derecho Empresarial
+../../../especializaciones/calidad_competitividad/configuration.php&&joomla_ccompe&&Especialización en Calidad para la Competitividad
+../../../especializaciones/legislacion_laboral/configuration.php&&joomla_legislaboral25&&Especialización en Legislación Laboral y de la Seguridad Social
+../../../especializaciones/medio_ambiente/configuration.php&&joomla_mambiente&&Especialización en Medio Ambiente
+../../../especializaciones/derecho_publico/configuration.php&&joomla_derpublico&&Especialización en Derecho Público
+../../../especializaciones/derecho_judicial/configuration.php&&joomla_derejudicial&&Especialización en Derecho Judicial
+../../../especializaciones/auditoria_salud/configuration.php&&joomla_esalud25&&Especialización en Auditoria Salud
+../../../especializaciones/derecho_procesal/configuration.php&&joomla_derprocesal&&Especialización en Derecho Procesal
+../../../anacron/configuration.php&&joomla_anacron&&Sitio Web Móvil Icesi
+../../../prueba_08-01-14 lmrivera/configuration.php&&joomla_movanacron&&Prueba
+../../../gestion_informatica_telecomunicaciones/configuration.php&&joomla_mgit&&Maestría en Gestión de Informática y Telecomunicaciones
+../../../escuela_ciencias_educacion/configuration.php&&joomla_esceducacion&&Escuela de Ciencias de la Educación
+../../../aniversario/configuration.php&&joomla_aniversario25&&Aniversario
+../../../mision_rusia_turquia/configuration.php&&joomla_mision_turquia25&&Misión Rusia Turquia
+../../../departamentos/lenguajesycomunicacion/configuration.php&&joomla_lencomuni&&Departamento de Lenguajes y Comunicación
+../../../departamentos/finanzas_contabilidad/configuration.php&&joomla_dptocontable25&&Departamento de Estudios Contables y Financieros
+../../../departamentos/economia/configuration.php&&joomla_deptoeconomia25&&Departamento de Economia
+../../../departamentos/humanidades/configuration.php&&joomla_huma25&&Departamento de Humanidades
+../../../departamentos/estudios_juridicos/configuration.php&&joomla_esjuridicos&&Estudios Jurídicos
+../../../departamentos/espanol/configuration.php&&joomla_dptespanol25&&Departamento Español
+../../../departamentos/tics/campodeverano/configuration.php&&joomla_campotics&&Campo de Verano
+../../../departamentos/tics/configuration.php&&joomla_tics&&Departamento de Tecnologías de Información y Comunicaciones
+../../../departamentos/mercadeo_negocios_internacionales/configuration.php&&joomla_dptomni&&Departamento de Mercadeo y Negocios Internacionales
+../../../departamentos/tecnologias_informacion_comunicaciones/configuration.php&&joomla_tics&&Tecnologias de información y comunicaciones
+../../../departamentos/tecnologias_informacion_comunicaciones/profesores/configuration.php&&joomla_proftics&&Profesores del Departamento de TIC\s
+../../../departamentos/ingenieria_industrial/configuration.php&&joomla_dptoind25&&Departamento de Ingeniería Industrial
+../../../departamentos/matematicas/configuration.php&&joomla_depmate25&&Departamentos Matematicas
+../../../departamentos/diseno/configuration.php&&joomla_deptdiseno&&Departamento de Diseño
+../../../departamentos/gestion_organizacional/configuration.php&&joomla_dptogo25&&Departamento De  Gestion Organizacional
+../../../departamentos/idiomas/configuration.php&&joomla_depidiomas25&&Departamento de Idiomas
+../../../antropologia_audiovisual/configuration.php&&joomla_antrovisual&&Antropología Audiovisual
+../../../sistemas_telematica/configuration.php&&joomla_rst25&&Revista Sistemas y Telemática
+../../../laboratoriofinanciero/configuration.php&&joomla_labfin25&&Laboratorio Financiero
+../../../prueba_03-12-2014/configuration.php&&joomla_movanacron&&Icesi Móvil
+../../../congreso_proesa/configuration.php&&joomla_congresopro&&Congreso acoes
+../../../facultad_ingenieria/configuration.php&&joomla_facing25&&Facultad de Ingenieria
+../../../sinergia/configuration.php&&joomla_sinergia25&&Sinergia
+../../../sociologia/configuration.php&&joomla_sociologia&&Programa de Sociología
+../../../congreso_idiomas_2011/configuration.php&&joomla_conidiomas252&&Congreso idiomas
+../../../proesa/configuration.php&&joomla_prueba32&&Proesa
+../../../economia/english/configuration.php&&joomla_ecoen&&Programa de Economia
+../../../economia/configuration.php&&joomla_eco&&Programa de Economia
+../../../especializaciones_medicas/especializacion_hematologia_oncologia/configuration.php&&joomla_esp_hemaon&&Especialización en Hematología y Oncología
+../../../especializaciones_medicas/especializacionDos/configuration.php&&joomla_esp_dos&&Especialización en Nefrología
+../../../especializaciones_medicas/ginecologia/configuration.php&&joomla_espgine&&Especialización en Pediatría
+../../../especializaciones_medicas/especializacion_transplante_organos_abdominales/configuration.php&&joomla_esp_trorabdo&&Especialización Cirugía Trasplantes de Órganos Intestinales
+../../../especializaciones_medicas/especializacion_radiologia_imagenes_diagnosticas/configuration.php&&joomla_radimdia&&Especialización en Radiología e Imágenes Diagnosticas
+../../../especializaciones_medicas/especializacion_reumatologia/configuration.php&&joomla_esp_reumato&&Especialización en Reumatología
+../../../especializaciones_medicas/especializacion_cardiologia_pediatrica/configuration.php&&joomla_esp_carpedia&&Especialización Cardiología Pediátrica
+../../../especializaciones_medicas/especializacion_dermatologia/configuration.php&&joomla_esp_derma&&Especialización en Dermatología
+../../../especializaciones_medicas/especializacionUno/configuration.php&&joomla_esp_uno&&Especialización en Cardiología
+../../../especializaciones_medicas/configuration.php&&joomla_esp_medicas25&&Especializaciones Médico Quirúrgicas
+../../../especializaciones_medicas/especializacionCuatro/configuration.php&&joomla_esp_uno&&Especialización en Dermatología
+../../../especializaciones_medicas/especializacionTres/configuration.php&&joomla_esp_tres&&Especialización en Psiquiatría de Enlace
+../../../especializaciones_medicas/especializacion_pediatria/configuration.php&&joomla_esp_pediatria&&Especialización en Pediatría
+../../../especializaciones_medicas/especializacion_artroscopia/configuration.php&&joomla_esp_artros&&Especialización Artroscopia
+../../../especializaciones_medicas/especializacion_medicina_interna/configuration.php&&joomla_esp_medinterna&&Especialización en Medicina Interna
+../../../becas/configuration.php&&joomla_becas2&&Becas
+../../../polis/configuration.php&&joomla_polis25&&POLIS
+../../../sociologia_latinoamericana/configuration.php&&joomla_soclat25&&Sociologia Latinoamericana
+../../../otra_verdad_sobre_drogas/configuration.php&&joomla_ovsdrogas25&&Campaña: La otra verdad sobre las drogas
+../../../icesinuevo/configuration.php&&joomla_icesiprod&&Universidad Icesi
+../../../agenda_nueva/configuration.php&&joomla_agenda_nueva&&Agenda Institucional
+../../../brain_festival/configuration.php&&joomla_brain25&&Brain Festival
+../../../vive_icesi/configuration.php&&joomla_viveicesi25&&Vive Icesi
+../../../ret/configuration.php&&joomla_ret&&ret
+../../../revista_cs/configuration.php&&joomla_revistacs25&&Revista CS
+../../../estudios_gerenciales/configuration.php&&joomla_e_gerenciales25&&Estudios Gerenciales
+../../../congreso_idiomas/configuration.php&&joomla_conidiomas25&&Congreso idiomas
+../../../prueba_2_5/configuration.php&&joomla_movilii&&IcesiMovilii
+../../../spanish_for_foreigners_program/configuration.php&&joomla_sfp&&Spanish for Foreigners Program
+../../../investigaciones_publicaciones/libros/easyreg_aplicaciones_econometria/configuration.php&&joomla_easyreg&&Libro Easyreg Aplicaciones Econometría
+../../../investigaciones_publicaciones/libros/analisis_riesgo_financiero/configuration.php&&joomla_libros&&Introducción al Análisis de Riesgo Financiero
+../../../investigaciones_publicaciones/configuration.php&&joomla_investpub25&&Investigaciones y Publicaciones
+../../../revista_cs_ingles/configuration.php&&joomla_csing25&&Revista CS Ingles
+../../../simposio_niif/configuration.php&&joomla_simpnorint25&&Simposio de Normas Internacionales de Información Financiera
+../../../executive_english_program/configuration.php&&joomla_eep25&&Executive English Program
+../../../ieee/configuration.php&&joomla_ieee&&IEEE
+../../../misiones/sistemas_telematica/configuration.php&&joomla_misiones25&&Sistemas y Telemática
+../../../prueba_anacron/configuration.php&&joomla_pruebajoomla&&Sitio Web Móvil Icesi
+../../../ceve/configuration.php&&joomla_ceve&&Centro de Estudios de Vida Estudiantil CEVE
+../../../proyecto_planta_coca/configuration.php&&joomla_planco&&Proyecto Inclusión de la Planta Coca en el Vademecum
+../../../vive_campus_icesi/configuration.php&&joomla_vivecampusi&&Vive Campus Icesi
+../../../icecomex/configuration.php&&joomla_icecomex25&&Icecomex
+../../../seminario_calidad_innovacion/configuration.php&&joomla_calidadinno&&Seminario Internacional Gestión Estratégica de calidad e innovación
+../../../i2t/teleco/configuration.php&&joomla_telecom25&&i2t
+../../../i2t/driso_old/configuration.php&&joomla_driso25&&i2t
+../../../i2t/configuration.php&&joomla_i2t25&&i2t Research Group
+../../../td/configuration.php&&joomla_td&&Td
+../../../facultad_ciencias_salud/13_congreso_genetica/configuration.php&&joomla_genetica13&&13 congreso genetica
+../../../facultad_ciencias_salud/configuration.php&&joomla_facsalud25&&Icesi
+../../../joomla3_ol/configuration.php&&joomla_joomla3&&Migración Icesi
+../../../areacts/configuration.php&&joomla_areacts25&&ÁreaCTS
+../../../icesi_hoy/configuration.php&&joomla_icesi15&&icesi
+../../../icesi_hoy/prueba_brahyan/configuration.php&&joomla_pruebaj5&&prueba_b
+../../../fondo_empleados/configuration.php&&joomla_fedeicesi&&Fondo de Empleados
+../../../facultad_ciencias_administrativas_economicas/english/configuration.php&&joomla_facadminen&&Facultad de Ciencias Administrativas y Económicas
+../../../facultad_ciencias_administrativas_economicas/english/faculty/configuration.php&&joomla_facadming25&&Faculty Facultad de Ciencias Administrativas y Economicas
+../../../facultad_ciencias_administrativas_economicas/configuration.php&&joomla_facadmin25&&Facultad de Ciencias Administrativas y Económicas
+../../../capsi/configuration.php&&joomla_capsi&&Centro de Atención Psicosocial CAPsi
+../../../ingenieria_telematica/configuration.php&&joomla_telematica&&Programa de Ingeniería Telemática
+../../../ensayo_politico/configuration.php&&joomla_ensayo_politico&&Convocatoria Ensayo Político
+../../../quimica_farmaceutica/configuration.php&&joomla_quimfar&&Programa de Quimica Farmaceutica
+../../../cartelera/configuration.php&&joomla_cartebiblioteca&&Cartelera Dígital
+../../../en/configuration.php&&joomla_en&&Universidad Icesi | Inglés
+../../../prueba3/icesi_j32/configuration.php&&joomla_icesij32p&&Universidad Icesi
+../../../prueba3/icesi_j3/configuration.php&&joomla_icesij3&&Universidad Icesi
+../../../prueba3/icesi_j333/configuration.php&&joomla_icesij333&&Universidad Icesi
+../../../prueba3/avenue/configuration.php&&joomla_avenue&&CIES
+../../../prueba3/icesi_j3 - copia/configuration.php&&joomla_icesij3&&Universidad Icesi
+../../../prueba3/telline/configuration.php&&joomla_telline&&telline
+../../../censea/configuration.php&&joomla_crea&&Consultorio Contable y Financiero
+../../../empresarios_en_linea/configuration.php&&joomla_empresenlinea&&Empresarios en linea
+../../../licenciatura/ensenanza_ingles/configuration.php&&joomla_eingles&&Licenciatura en Enseñanza del Inglés
+../../../licenciatura/educacion_basica_primaria/configuration.php&&joomla_eduprim&&Licenciatura en Educación Básica Primaria
+../../../licenciatura/ciencias_naturales/configuration.php&&joomla_cienciasnaturales&&Programa de Ciencias Políticas
+../../../licenciatura/artes_tecnologias_creacion/configuration.php&&joomla_artescrea&&Programa de Ciencias Políticas
+../../../licenciatura/estudios_sociales_humanos/configuration.php&&joomla_estudsocia&&Licenciatura en Estudios Sociales y Humanos
+../../../licenciatura/lenguaje_comunicacion/configuration.php&&joomla_lengcomu&&Programa de Ciencias Políticas
+../../../cienfi/copia/configuration.php&&joomla_copia&&Notas de Ciudad
+../../../cienfi/tablero_economico/configuration.php&&joomla_tablero_econo&&Tablero Económico
+../../../cienfi/bilinguismo/configuration.php&&joomla_bilinguismo25&&Bilingüismo
+../../../cienfi/configuration.php&&joomla_cienfi252&&CIENFI
+../../../cienfi/colcap/configuration.php&&joomla_colcap&&COLCAP
+../../../cienfi/recursos_economia/configuration.php&&joomla_recursos_economia&&Recursos para Estudiantes y Profesores de Economía
+../../../cienfi/notas_ciudad/configuration.php&&joomla_notasc&&Notas de Ciudad
+../../../cienfi/calidad_educacion/configuration.php&&joomla_calidad_educa25&&Calidad de la Educación
+../../../cienfi/panel-control-economico/configuration.php&&joomla_paneleco&&Inflación
+../../../joomla3/configuration.php&&joomla_joomla3&&Prueba nueva plantilla
+../../../foro_mercado_laboral/configuration.php&&joomla_merlaboral&&Foro El Mercado Laboral De Cali Y Colombia
+../../../prueba_1_5/agenda_nueva/configuration.php&&joomla_agenda_nueva&&Agenda Institucional
+../../../prueba_1_5/agenda_nueva/agenda_prod/configuration.php&&joomla_agenprod&&Agenda Institucional
+../../../prueba_1_5/configuration.php&&joomla_prueba13&&Icesi Móvil II
+../../../postgrados/configuration.php&&joomla_postgrado&&postgrado
+../../../cies_old/configuration.php&&joomla_ciesn25&&CIES
+../../../facultad_ciencias_naturales/configuration.php&&joomla_facnatura25&&Facultad de Ciencias Naturales
+../../../cedep/configuration.php&&joomla_cedep&&CEDEP
+../../../cic/configuration.php&&joomla_cic&&Centro de Industrias Culturales
+../../../industrias_culturales/configuration.php&&joomla_indculturales&&Industrias Culturales
+../../../cies_lmrivera26-03-15/configuration.php&&joomla_ciesn25&&CIES
+../../../servicios_apoyo/configuration.php&&joomla_servicios122&&Servicios de apoyo académico y administrativo
+../../../semai/configuration.php&&joomla_semai&&SEMAI
+../../../jornada_investigacion/configuration.php&&joomla_jorinv25&&V Jornada de Investigación
+../../../jornada_investigacion/evento_2010/configuration.php&&joomla_jinv25&&Jornada de Investigación
+../../../jornada_investigacion/evento_2010_old/configuration.php&&joomla_jinv1&&Jornada de Investigación
+../../../jornada_investigacion/evento_2010_old/jupgrade/configuration.php&&joomla_jinv1&&Jornada de Investigación
+../../../simposio_prioridades_salud/configuration.php&&joomla_simprisal25&&Simposio Establecer Prioridades en Salud
+../../../latinamerican_international_program/configuration.php&&joomla_lainp&&Latinamerican International Program
+../../../consultorio_juridico/configuration.php&&joomla_conjuridico25&&Consultorio Juridico
+../../../actores_redes_instituciones/configuration.php&&joomla_ac_red_instituciones&&Actores , Redes e Instituciones
+../../../netcom/configuration.php&&joomla_netcom25&&Evento NGN
+../../../ceaf/configuration.php&&joomla_ceaf&&Centro de Estudios Afrodiaspóricos
+../../../ingenieria_industrial/eudii22/configuration.php&&joomla_eudii2225&&Eudii 22
+../../../ingenieria_industrial/eudii17/configuration.php&&joomla_eudii172&&EUDII XVII
+../../../ingenieria_industrial/eudii25/configuration.php&&joomla_eudii25&&Eudii 25
+../../../ingenieria_industrial/cognos/configuration.php&&joomla_cognos25&&Cognos
+../../../ingenieria_industrial/eudii21/configuration.php&&joomla_eudii2125&&Eudii 21
+../../../ingenieria_industrial/eudii19/configuration.php&&joomla_eudii1925&&Eudii 19
+../../../ingenieria_industrial/eudii26/configuration.php&&joomla_eudii26&&Eudii 26
+../../../ingenieria_industrial/configuration.php&&joomla_industrial1_5&&Programa de Ingeniería Industrial
+../../../ingenieria_industrial/eudii24/configuration.php&&joomla_eudii24&&Ingeniería Industrial Eudii XXIV
+../../../ingenieria_industrial/eudii23/configuration.php&&joomla_eudii23&&Ingeniería Industrial Eudii XXIII
+../../../ingenieria_industrial/eudii20/configuration.php&&joomla_eudii2025&&Eudii 20
+../../../ingenieria_industrial/eudii18/configuration.php&&joomla_eudii1825&&EUDII
+../../../mision_india/configuration.php&&joomla_mindia25&&Mision India
+../../../prueba_25/configuration.php&&joomla_prueba252&&Universidad Icesi Inglés
+../../../educacion_economia/configuration.php&&joomla_edu_economia25&&SEMINARIO DE ECONOMÍA DE LA EDUCACIÓN
+../../../simposio_internacional_sistemas_salud/configuration.php&&joomla_simsissa25&&Simposio Internacional sistemas de salud en el mundo: Éxitos, fracasos y lecciones para Colombia
+../../../diseno_medios_interactivos/configuration.php&&joomla_diseno_medios&&Programa de Diseño de Medios Interactivos
+../../../directorio_empresarios/configuration.php&&joomla_dirempresa&&Directorio Empresarios
+../../../agenciadeprensa/configuration.php&&joomla_agencia&&Agencia de prensa
